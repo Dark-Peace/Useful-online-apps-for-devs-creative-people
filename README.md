@@ -1,3 +1,4 @@
+
 # Useful online apps for devs & creative people
 
 This is a collection of online tools you will find usefull. No matter who you are, there's something for you. List might expand in the future.
@@ -8,7 +9,21 @@ Please note :
  - If you want to add one, just open an issue in this github repository.
  - Always check the miscellaneous section because you might find something you thought was in a specific section but was in fact put there.
 
+Table of content : 
 
+ 1. Image editing
+ 2. Text / Code Editing
+ 3. Video Editing and Sharing
+ 4. Art and Color specific tools
+ 5. Gamedev
+ 6. For Writers
+ 7. Music making
+ 8. Security, Privacy, Search, for better internet browsing.
+ 9. Search Information
+ 10. Compressors & Converters
+ 11. File Sharing / Storing
+ 12. Miscellaneous useful / No category
+ 13. Miscellaneous FUN
 
 ## 1. Image editing
 
@@ -114,7 +129,7 @@ Please note :
  6. [Inkarnate](https://inkarnate.com/maps/) : Make fantasy maps.
  7. [World Anvil](https://www.worldanvil.com/dashboard/) : The best worldbuilding tool after pen and paper.
 
-## Music
+## Music Making
 
  1. [Computoser - AI music](http://computoser.com/)  : Create AI generated pieces. Not too bad for a quick free thing.
  2. [RhymeZone](https://www.rhymezone.com/) : Best site to find rhymes.
