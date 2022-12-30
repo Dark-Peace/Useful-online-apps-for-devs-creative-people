@@ -1,2 +1,2 @@
-# Useful-online-apps-for-devs-creative-people
-My 2023 list of useful websites, online apps and utilities (small or big) for devs, artists, writers and just everyone.
+# Useful online apps for devs creative people
+/!\ If you're reading this, it means that this list isn't complete yet. Come back later or follow me to get the complete list.
