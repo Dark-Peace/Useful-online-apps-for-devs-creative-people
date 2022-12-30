@@ -1,12 +1,14 @@
-# 
 # Useful online apps for devs & creative people
-/!\ If you're reading this, it means that this list isn't complete yet. Come back later or follow me to get the complete list.
+
+This is a collection of online tools you will find usefull. No matter who you are, there's something for you. List might expand in the future.
 
 Please note : 
  - Those tools aren't mine, it's just a list
  - Some of these website have more tools that those I linked here, I don't talk about them because they're covered elsewhere.
  - If you want to add one, just open an issue in this github repository.
  - Always check the miscellaneous section because you might find something you thought was in a specific section but was in fact put there.
+
+
 
 ## 1. Image editing
 
@@ -64,19 +66,21 @@ Please note :
 
 ## Art and Color specific tools
 
- 1. [Magma](https://magma.com/index) : ABSOLUTE BEST online app to store drawings and draw together with your teammates. It's basically Google Docs, but for drawings. Every tool you need is there, even a commentary system. I personnally use it for sharing storyboards. Free version has 5GB of storage.
+ 1. [Magma](https://magma.com/index) : ABSOLUTE BEST online app to store drawings and draw together with your teammates. It's basically Google Docs, but for drawings. Every tool you need is there, even a comments system. I personnally use it for sharing storyboards. Free version has 5GB of storage.
  2. [Dither Me This](https://doodad.dev/dither-me-this/) : Best dithering app. Multiple dithering algorithms, change color palette and reduce file size.
  3. [Sketchpad](https://sketch.io/sketchpad/)  : best drawing app when you're sharing screens in an online call and you want to draw a quick sketch for your teammates.
  4. [GIF to Sprite Sheet](https://onlinegiftools.com/convert-gif-to-sprite-sheet) : Convert a Gif to a spritesheet and conversly.
+ 5. [Pixelorama](https://orama-interactive.itch.io/pixelorama) : Best Online pixel Art editor.
 
 ### Color related
 
- 2. [Color Palette/Picker](https://colordesigner.io/) : The best online color picker (I tested them all) with the most features. Select in HSL/RGB/... . It proposes you more tints, shades and tones.
- 3. [Gradient Generator](https://colordesigner.io/gradient-generator) : Generates a gradient (custom amount of resulting colors) between 2 colors. You can copy all their values in one go.
- 4. [Palette From Image](https://colordesigner.io/color-palette-from-image) : Output a palette from an input image.
- 5. [Color Scheme Designer](https://paletton.com/#uid=71y0u0knacPfEl6jagfrG8Lz44S) : The BEST color scheme helper/generator. Every color scheme in one easy to use interface.
- 6. [Text/Background Contrast](https://toolsdome.com/color-contrast) : tells you how readable is your colored text on your colored background. Very useful for UI design.
- 7. [Color Converter](https://colordesigner.io/convert)  : Convert colors to different color formats.
+ 1. [Color Palette/Picker](https://colordesigner.io/) : The best online color picker (I tested them all) with the most features. Select in HSL/RGB/... . It proposes you more tints, shades and tones.
+ 2. [Gradient Generator](https://colordesigner.io/gradient-generator) : Generates a gradient (custom amount of resulting colors) between 2 colors. You can copy all their values in one go.
+ 3. [Palette From Image](https://colordesigner.io/color-palette-from-image) : Output a palette from an input image.
+ 4. [Color Scheme Designer](https://paletton.com/#uid=71y0u0knacPfEl6jagfrG8Lz44S) : The BEST color scheme helper/generator. Every color scheme in one easy to use interface.
+ 5. [Text/Background Contrast](https://toolsdome.com/color-contrast) : tells you how readable is your colored text on your colored background. Very useful for UI design.
+ 6. [Color Converter](https://colordesigner.io/convert)  : Convert colors to different color formats.
+ 7. [Color psychology](https://www.w3schools.com/colors/colors_psychology.asp) : Learn about color psychology
 
 ### Pose Mannequins
 
@@ -98,6 +102,22 @@ Please note :
  5. [GameJolt](https://gamejolt.com/) : The second best indie game hosting website. Post your game, posts your art and joins communities with its the built-in social networks.
  6. [Kartridge](https://developers.kartridge.com/) : Game hosting website. (Haven't tested yet)
  7. [Playerloop](https://playerloop.io/) : Get all your player's feedback at the same place by adding it to your game. 50 first people will get it for free. (I did participate to its Godot version)
+ 8. [Ludum Dare](https://ldjam.com/) : Oldest and most famous gamejam in the world. Have fun.
+ 
+## For Writers
+
+ 1. [Google Docs](https://docs.google.com/document/u/0/) : Best writing app. Use it in browser, then on your phone when you're away. Work without connexion. Work together on a same doc, chat and write comments/suggestions. Docs saved in Google Drive (15GB for free)
+ 2. [Synonyms & Antonyms](https://www.antonym.com/antonyms/beat) : Best website for that.
+ 3. [RhymeZone](https://www.rhymezone.com/) : Best site to find rhymes.
+ 4. [Anagram Solver](https://www.thewordfinder.com/anagram-solver/) : Best site to play with anagrams.
+ 5. [Reverso](https://context.reverso.net/traduction/anglais-francais/) : Best translation app. Gives context sentences / examples.
+ 6. [Inkarnate](https://inkarnate.com/maps/) : Make fantasy maps.
+ 7. [World Anvil](https://www.worldanvil.com/dashboard/) : The best worldbuilding tool after pen and paper.
+
+## Music
+
+ 1. [Computoser - AI music](http://computoser.com/)  : Create AI generated pieces. Not too bad for a quick free thing.
+ 2. [RhymeZone](https://www.rhymezone.com/) : Best site to find rhymes.
 
 ## Security, Privacy, Search, for better internet browsing.
 
@@ -134,13 +154,19 @@ Please note :
  7. [Color Converter](https://colordesigner.io/convert)  : Convert colors to different color formats.
  8. [Unit converters](https://freetinytools.com/) : All units are here !
 
-## Music
+## File Sharing / Storing
 
- 1. [Computoser - AI music](http://computoser.com/)  : Create AI generated pieces. Not too bad for a quick free thing.
+ 1. [ToffeeShare](https://toffeeshare.com/) : Share files the peer-to-peer encrypted way.
+ 2. [Tixte](https://tixte.com/dashboard/browse) : Share/store files (10GB for free). Display embed messages in Discord and other social medias. Good way to bypass Discord's file size limit without paying for Nitro.
+ 3. [MediaFire](https://app.mediafire.com/myfiles) : Timeless classic of file sharing. 15GB for free.
+ 4. [Google Drive](https://drive.google.com/drive/my-drive) : Timeless classic of file sharing. 15GB for free. Google.
 
-## Miscellaneous general
+## Miscellaneous useful / No category
 
  - [Pixel font converter!](https://yal.cc/r/20/pixelfont/) : convert drawn pixel art letters to an actual font file format.
+ - [Bitwarden](https://vault.bitwarden.com/#/vault) : BitWarden is the best free, open source password manager.
+ - [LinkTree](https://linktr.ee/admin) : Share a page with all your links at the same place. Horrible editing interface. Bugs everywhere. Worst gradient editor I've ever seen.
+ - [0ls.me](https://0ls.me/Sotpg5i5) : Like LinkTree but without the fancy customisation and without the shitty bugs that makes you lose your page because of the stupid interface... wait what was I saying ?
  - [Time Zone Map](https://www.timeanddate.com/time/map/) : The best website to see which time it is everywhere in the world.
  - [Omni Calculator](https://www.omnicalculator.com/) : Every type of calculator ever, into one.
  - [Google Forms](https://docs.google.com/forms/u/0/?tgif=d) : Make forms. Forms are cool.
@@ -158,5 +184,6 @@ Please note :
  - [Absurd Trolley Problems](https://neal.fun/absurd-trolley-problems/) : Generates absurd trolley problems.
  - [Meme Maker](https://imgflip.com/memetemplates) : Make those memes easily from thousands of templates.
  - [Objection.lol](https://objection.lol/maker) : Want to make Ace Attorney style content ?
- - 
+ - [Newspaper Clipping](https://www.fodey.com/generators/newspaper/snippet.asp) : Fake customisable newspaper generator.
+ - [Fake legal form](http://www.legalfakes.com/) : Fake customisable legal forms generator.
 
