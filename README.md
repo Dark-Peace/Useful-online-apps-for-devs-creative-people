@@ -96,6 +96,7 @@ Table of content :
  5. [Text/Background Contrast](https://toolsdome.com/color-contrast) : tells you how readable is your colored text on your colored background. Very useful for UI design.
  6. [Color Converter](https://colordesigner.io/convert)  : Convert colors to different color formats.
  7. [Color psychology](https://www.w3schools.com/colors/colors_psychology.asp) : Learn about color psychology
+ 8. [Color Blind Simulator](https://pilestone.com/pages/color-blindness-simulator-1#) : Simulate how colorblind people (all types) see your content.
 
 ### Pose Mannequins
 
