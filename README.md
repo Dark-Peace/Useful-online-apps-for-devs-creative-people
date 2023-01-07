@@ -140,10 +140,11 @@ Table of content :
  2. [Broken Link Checker](https://www.brokenlinkcheck.com/) Enter your website URL to check if it contains any broken link.
  3. [TOS; Didn't Read](https://tosdr.org/) : Read an understandable and summarised version of Terms Of Services from lots of softwares and websites so you easily know what you're accepting.
  4. [AlternativeTo](https://alternativeto.net/) : Find alternatives to popular softwares and services.
- 5. [VirusTotal](https://www.virustotal.com/gui/home/search) : Online checking if a file/website contains viruses.
- 6. [Have I Been Pwned](https://haveibeenpwned.com/) : Check if your email addresses has been leaked by a data breach.
- 7. [10 Minute Mail](https://10minutemail.com/) : Create a temporary email you can use to sign up to a website to which you don't want to use your real address. You can access this mailbox for 10 minutes to get the confirmation email.
- 8. [12ft Ladder](https://12ft.io/) : Try to bypass paywalls.
+ 5. [Product Hunt](https://www.producthunt.com/) : Find all sorts of new useful products like those listed here. It's a real treasure island.
+ 6. [VirusTotal](https://www.virustotal.com/gui/home/search) : Online checking if a file/website contains viruses.
+ 7. [Have I Been Pwned](https://haveibeenpwned.com/) : Check if your email addresses has been leaked by a data breach.
+ 8. [10 Minute Mail](https://10minutemail.com/) : Create a temporary email you can use to sign up to a website to which you don't want to use your real address. You can access this mailbox for 10 minutes to get the confirmation email.
+ 9. [12ft Ladder](https://12ft.io/) : Try to bypass paywalls.
 
 ## Search Information
  1. [OneLook Dictionary](https://www.onelook.com/) : Search an english word in every dictionnary ever.
