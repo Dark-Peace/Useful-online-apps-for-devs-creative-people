@@ -142,11 +142,12 @@ Table of content :
  3. [TOS; Didn't Read](https://tosdr.org/) : Read an understandable and summarised version of Terms Of Services from lots of softwares and websites so you easily know what you're accepting.
  4. [AlternativeTo](https://alternativeto.net/) : Find alternatives to popular softwares and services.
  5. [Product Hunt](https://www.producthunt.com/) : Find all sorts of new useful products like those listed here. It's a real treasure island.
- 6. [Should I Remove It?](https://www.shouldiremoveit.com/) : Search for any software if it's adviced to remove it or if you should keep it. Good for wiping out bloatwares.
- 7. [VirusTotal](https://www.virustotal.com/gui/home/search) : Online checking if a file/website contains viruses.
- 8. [Have I Been Pwned](https://haveibeenpwned.com/) : Check if your email addresses has been leaked by a data breach.
- 9. [10 Minute Mail](https://10minutemail.com/) : Create a temporary email you can use to sign up to a website to which you don't want to use your real address. You can access this mailbox for 10 minutes to get the confirmation email.
- 10. [12ft Ladder](https://12ft.io/) : Try to bypass paywalls.
+ 6. [Slant](https://www.slant.co/) : Ask what you're looking for and find the perfect software for that. Kind of like AlternativeTo and Product Hunt.
+ 7. [Should I Remove It?](https://www.shouldiremoveit.com/) : Search for any software if it's adviced to remove it or if you should keep it. Good for wiping out bloatwares.
+ 8. [VirusTotal](https://www.virustotal.com/gui/home/search) : Online checking if a file/website contains viruses.
+ 9. [Have I Been Pwned](https://haveibeenpwned.com/) : Check if your email addresses has been leaked by a data breach.
+ 10. [10 Minute Mail](https://10minutemail.com/) : Create a temporary email you can use to sign up to a website to which you don't want to use your real address. You can access this mailbox for 10 minutes to get the confirmation email.
+ 11. [12ft Ladder](https://12ft.io/) : Try to bypass paywalls.
 
 ## Search Information
  1. [OneLook Dictionary](https://www.onelook.com/) : Search an english word in every dictionnary ever.
