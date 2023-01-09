@@ -131,6 +131,8 @@ Table of content :
  8. [Inkarnate](https://inkarnate.com/maps/) : Make fantasy maps.
  9. [World Anvil](https://www.worldanvil.com/dashboard/) : The best worldbuilding tool after pen and paper.
 
+(note: more tools useful for writers in the Search section)
+
 ## Music Making
 
  1. [Computoser - AI music](http://computoser.com/)  : Create AI generated pieces. Not too bad for a quick free thing.
@@ -158,6 +160,7 @@ Table of content :
  5. [Consensus](https://consensus.app/) : Ask a question and it will answer you with scientific research-based evidence.
  6. [FILExt](https://filext.com/fr/) : Find what's this file extension you've never seen before.
  7. [Urban Dictionary](https://www.urbandictionary.com/) : Dictionnary of slang and other invented words.
+ 8. [RomajiDesu](http://www.romajidesu.com/dictionary/meaning-of-%E7%BE%BD.html) : Best Japanese dictionnary / translation tool
 
 ## Compressors
  1. [Gif](https://ezgif.com/optimize)
