@@ -1,4 +1,3 @@
-
 # Useful online apps for devs & creative people
 
 This is a collection of online tools you will find usefull. No matter who you are, there's something for you. List might expand in the future.
