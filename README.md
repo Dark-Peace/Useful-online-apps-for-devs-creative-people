@@ -201,6 +201,7 @@ Table of content :
 ## Miscellaneous FUN
 
  - [Absurd Trolley Problems](https://neal.fun/absurd-trolley-problems/) : Generates absurd trolley problems.
+ - [Draw a Perfect Circle](https://neal.fun/perfect-circle/) : See how well you can draw a perfect circle.
  - [Meme Maker](https://imgflip.com/memetemplates) : Make those memes easily from thousands of templates.
  - [Objection.lol](https://objection.lol/maker) : Want to make Ace Attorney style content ?
  - [Newspaper Clipping](https://www.fodey.com/generators/newspaper/snippet.asp) : Fake customisable newspaper generator.
