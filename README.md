@@ -127,8 +127,10 @@ Table of content :
  3. [RhymeZone](https://www.rhymezone.com/) : Best site to find rhymes.
  4. [Anagram Solver](https://www.thewordfinder.com/anagram-solver/) : Best site to play with anagrams.
  5. [Reverso](https://context.reverso.net/traduction/anglais-francais/) : Best translation app. Gives context sentences / examples.
- 6. [Inkarnate](https://inkarnate.com/maps/) : Make fantasy maps.
- 7. [World Anvil](https://www.worldanvil.com/dashboard/) : The best worldbuilding tool after pen and paper.
+ 6. [Goodreads: Quotes](https://www.goodreads.com/quotes/) : Like a Quote dictionnary.
+ 7. [Quote Investigator](https://quoteinvestigator.com/) : Find out who REALLY said that famous quote you like.
+ 8. [Inkarnate](https://inkarnate.com/maps/) : Make fantasy maps.
+ 9. [World Anvil](https://www.worldanvil.com/dashboard/) : The best worldbuilding tool after pen and paper.
 
 ## Music Making
 
