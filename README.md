@@ -187,6 +187,7 @@ Table of content :
 
 ## Miscellaneous useful / No category
 
+ - [Wayback Machine](https://archive.org/web) : Go through the internet archive, find taken down / old versions of websites that have been saved.
  - [Pixel font converter!](https://yal.cc/r/20/pixelfont/) : convert drawn pixel art letters to an actual font file format.
  - [Bitwarden](https://vault.bitwarden.com/#/vault) : BitWarden is the best free, open source password manager.
  - [LinkTree](https://linktr.ee/admin) : Share a page with all your links at the same place. Horrible editing interface. Bugs everywhere. Worst gradient editor I've ever seen.
