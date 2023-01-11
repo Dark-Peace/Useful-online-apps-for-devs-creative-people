@@ -56,6 +56,7 @@ Table of content :
  9. [Align Text](https://texttools.org/#:~:text=a%20markdown%20text.-,TEXT%20FORMATTING,-Add%20Line%20Numbers) : Artificialy align your text to the left/right/center/justified. There are many more tools on this site.
  10. [ASCII text banners](https://manytools.org/hacker-tools/ascii-banner/) : write your text as big titles displayed in ASCII characters. Lots and lots of styles available. (Also has a tool to convert images to ASCII art)
  11. [Text/Background Contrast](https://toolsdome.com/color-contrast) : tells you how readable is your colored text on your colored background. Very useful for UI design.
+ 12. [Read the Docs](https://readthedocs.org/) : Write & host documentation for your projects online.
  
 ### Code specific tools 
 
