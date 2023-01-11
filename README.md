@@ -1,3 +1,4 @@
+
 # Useful online apps for devs & creative people
 
 This is a collection of online tools you will find usefull. No matter who you are, there's something for you. List might expand in the future.
@@ -84,7 +85,8 @@ Table of content :
  2. [Dither Me This](https://doodad.dev/dither-me-this/) : Best dithering app. Multiple dithering algorithms, change color palette and reduce file size.
  3. [Sketchpad](https://sketch.io/sketchpad/)  : best drawing app when you're sharing screens in an online call and you want to draw a quick sketch for your teammates.
  4. [GIF to Sprite Sheet](https://onlinegiftools.com/convert-gif-to-sprite-sheet) : Convert a Gif to a spritesheet and conversly.
- 5. [Pixelorama](https://orama-interactive.itch.io/pixelorama) : Best Online pixel Art editor.
+ 5. [Pixelorama](https://orama-interactive.itch.io/pixelorama) : Best Online Pixel Art editor.
+ 6. [PIXA](https://pixa.pics/) : Pixel Art editor (more like modifier, don't use that for actually drawing) which let you apply filters on your creations among other things.
 
 ### Color related
 
